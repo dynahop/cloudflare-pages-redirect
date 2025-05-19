@@ -2,6 +2,6 @@
   "name": "cloudflare-pages-redirect",
   "compatibility_date": "2025-05-19",
   "assets": {
-    "directory": "./"
+    "directory": "./dist/"
   }
 }
